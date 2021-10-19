@@ -1,6 +1,7 @@
 200 Mendoza Line Boost
 300 Spartan Boost
 315 Caesar Boost
+333 Magic Number and a half Boost
 420 Stoner Boost
 500 Indy Boost
 666 Satan Boost
@@ -21,6 +22,7 @@
 2112 Rush Boost
 2718 e Boost
 3142 Pi Boost
+3333 Double Magic Number Boost
 4205 High 5 Boost
 5150 Van Halen Boost
 5280 Mile High Boost
