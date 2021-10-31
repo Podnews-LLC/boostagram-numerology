@@ -17,6 +17,7 @@
 1618 Golden Boost
 1701 Star Trek Boost
 1776 Liberty Boost
+1948 Israel Again Boost
 1999 Prince Boost
 2001 Arthur C Clarke Boost
 2112 Rush Boost
