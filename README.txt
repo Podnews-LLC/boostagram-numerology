@@ -20,6 +20,7 @@
 1999 Prince Boost
 2001 Arthur C Clarke Boost
 2112 Rush Boost
+2222 Row of Ducks Boost
 2260 Duck Duck Go Boost
 2718 e Boost
 3142 Pi Boost
