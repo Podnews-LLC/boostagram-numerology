@@ -6,6 +6,7 @@
 500 Indy Boost
 666 Satan Boost
 755 Hank Aaron Boost
+777 Stryper Boost
 958 Usain Bolt Boost
 1004 Trucker Boost
 1034 Riot Boost
