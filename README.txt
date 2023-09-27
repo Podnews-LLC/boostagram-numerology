@@ -1,5 +1,6 @@
 200 Mendoza Line Boost
 300 Spartan Boost
+305 Pitbull Boost
 315 Caesar Boost
 333 Magic Number and a half Boost
 420 Stoner Boost
@@ -9,10 +10,13 @@
 777 Stryper Boost
 958 Usain Bolt Boost
 1004 Trucker Boost
+1024 Megabyte Boost
 1034 Riot Boost
 1066 Norman Boost
+1111 Row Of Sticks (Richards) Boost
 1138 Lucas Boost
 1215 Magna Carta Boost
+1337 Leet Boost
 1414 Irrational Boost
 1492 Columbus Boost
 1618 Golden Boost
@@ -27,7 +31,9 @@
 2718 e Boost
 3142 Pi Boost
 3333 Double Magic Number Boost
+3838 Bebe (Baby) Boost
 4205 High 5 Boost
+4321 Blastoff Boost
 5150 Van Halen Boost
 5280 Mile High Boost
 5555 High Five Boost
@@ -35,9 +41,15 @@
 8008 Boob Boost
 8701 Usher Boost
 10000 Wilt Chamberlain Boost
+58008 Boobs Boost
 90210 Beverly Hills Boost
+112358 Fibonacci Boost
 221905 RandsDay Boost
 312009 Bitcoin Birthday Boost
 376006 Google Boost
 5318008 School Calculator Boost
 8675309 Jenny Boost
+
+Variations with an extra number added are referred to as a 'big' boost. 
+17776 becomes a Big Liberty Boost
+22222 becomes a Big Row Of Ducks
