@@ -1,6 +1,6 @@
 In numerology.json you can find the numerology.
 
 Format:
-`[SAT, "Description", "Notes"`
+`[SAT, "Description", "Notes"]`
 
 Notes are optional.
